@@ -1,4 +1,5 @@
-/*  LinkedIn Bot 
+/*  
+*	LinkedIn Bot 
 *  	Coded: Rex Adrivan
 */
 
@@ -12,6 +13,18 @@ window.setInterval(function(){
 	$(".connect-btn").trigger('click');
 	$(".btn-text").trigger('click');
 }, 5000);
+
+/*
+*	URL:
+*	Description: Connect user and scroll down
+*/
+
+
+window.setInterval(function(){
+  $(".bt-request-buffed").trigger('click');
+	window.scrollBy(0,180);
+}, 1000);
+
 
 
 /*
