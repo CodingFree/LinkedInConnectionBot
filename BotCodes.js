@@ -21,7 +21,7 @@ window.setInterval(function(){
 
 window.setInterval(function(){
  $(".follow-glyph").trigger('click');
- $("#connect_linkedin_profile_message").val('Hello, Can I add you as a connection? I am looking for a job opening. that is suitable with my skills and capacity. Developing applicatoins and systems');
+ $("#connect_linkedin_profile_message").val('Hello, this is a test mass message');
  $(".btn-linkedin").trigger('click');
 }, 1000);
 
