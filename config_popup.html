@@ -1,0 +1,51 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Getting Started Extension's Popup</title>
+    <style>
+      body {
+        min-width: 357px;
+        overflow-x: hidden;
+      }
+
+      img {
+        margin: 5px;
+        border: 2px solid black;
+        vertical-align: middle;
+        width: 75px;
+        height: 75px;
+      }
+    </style>
+
+    <!--
+      - JavaScript and HTML must be in separate files: see our Content Security
+      - Policy documentation[1] for details and explanation.
+      -
+      - [1]: http://developer.chrome.com/extensions/contentSecurityPolicy.html
+     -->
+     <script src="/js/external/jquery.js"></script>
+     <script src="config.js"></script>
+     <link rel="stylesheet" href="/css/style.css">
+
+	</head>
+	<body>
+		<div><h2>Configuration</h2></div>
+		<div>
+    <span>Password</span><input type="text" id="host_url"><span> 
+		</div>
+		<div>
+			<input type="checkbox" name="link_chb" id="link_chb">HomePage Add
+		</div>
+    <div>
+      <input type="checkbox" name="search_add" id="search_add">Search People Add
+    </div>
+
+    <div>
+      <input type="checkbox" name="invite_add" id="invite_add">Send Invitation
+    </div>
+    
+		
+    <div>
+    </div>
+	</body>
+</html>
