@@ -10,3 +10,5 @@ Password: rexadrivan
 - check available bot functions
 - open your linkedin homepage
 
+more inforamtion add me on skype "adrivanrex"
+https://www.facebook.com/radrivan
