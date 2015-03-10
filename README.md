@@ -1,7 +1,6 @@
 # LinkedInConnectionBot
 Automated Bot for linkedIn
-
-Password: rexadrivan
+skype "adrivanrex" for the password
 
 # Manual
 - goto google chrome extensions
