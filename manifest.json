@@ -11,13 +11,13 @@
       "matches": [ "\u003Call_urls>" ],
       "run_at": "document_end"
    } ],
-   "description": "Changes \u003Cimg> and \u003Ca> tags' link to it's host url",
+   "description": "LinkedIn Connection Adder",
    "icons": {
       "128": "/img/icons/img_128.png",
       "16": "/img/icons/img_16.png",
       "48": "/img/icons/img_48.png"
    },
    "manifest_version": 2,
-   "name": "URL Changer",
+   "name": "LinkedIN Bot",
    "version": "1.0"
 }
